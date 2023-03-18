@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xaniz
-- 👀 Full stack developer
+- 👀 Full stack developer in progress :P
 - 🌱 Currently working on GTA V Roleplay project RPV
 
 <!---
