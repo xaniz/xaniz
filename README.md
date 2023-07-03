@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xaniz
-- 👀 Full stack developer in progress :P
+- 👀 C#/.Net dev
 - 🌱 Currently working on GTA V Roleplay project RPV
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xaniz)](https://git.io/streak-stats)
