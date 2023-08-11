@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xaniz
 - 🌱 Currently learning Python
 
-- [![My Skills](https://skills.thijs.gg/icons?i=c#,mysql)](https://skills.thijs.gg)****
+- [![My Skills](https://skills.thijs.gg/icons?i=cs,mysql)](https://skills.thijs.gg)****
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=xaniz)](https://git.io/streak-stats)
 
