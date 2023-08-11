@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @xaniz
 - 🌱 Currently learning Python
 
-- [![My Skills](https://skills.thijs.gg/icons?i=cs,mysql)](https://skills.thijs.gg)****
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaniz&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xaniz)](https://git.io/streak-stats)
+Technologies:
+
 
 <!---
 xaniz/xaniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
